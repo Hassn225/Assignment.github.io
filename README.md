@@ -63,7 +63,7 @@
     <h1>Welcome to My Assignment</h1>
 
     <!-- Picture -->
-    <img src="https://via.placeholder.com/300" alt="Sample Picture">
+    <img src="IMG_8420.png" alt="UCP Picture">
 
     <!-- Video -->
     <video controls>
