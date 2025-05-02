@@ -26,44 +26,15 @@
             border: 2px solid #4CAF50;
             border-radius: 10px;
         }
-        table {
-            width: 60%;
-            margin: 20px auto;
-            border-collapse: collapse;
-            background-color: #fff;
-        }
-        table, th, td {
-            border: 2px solid #4CAF50;
-            padding: 10px;
-            text-align: center;
-        }
-        form {
-            text-align: center;
-            margin-top: 30px;
-        }
-        input[type="submit"] {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 25px;
-            font-size: 16px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        input[type="submit"]:hover {
-            background-color: #45a049;
-        }
-        .radio-group {
-            margin: 15px 0;
-        }
+        
     </style>
 </head>
 <body>
 
-    <h1>Welcome to My Assignment</h1>
+    <h1>WELCOME TO BHOLA WORLD</h1>
 
     <!-- Picture -->
-    <img src="IMG_8420.png" alt="UCP Picture">
+    <img src="IMG_0563.jpeg" alt="UCP Picture">
 
     <!-- Video -->
     <video controls>
@@ -71,44 +42,8 @@
         Your browser does not support the video tag.
     </video>
 
-    <!-- Table -->
-    <table>
-        <thead>
-            <tr>
-                <th>Subject</th>
-                <th>Marks</th>
-                <th>Grade</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Math</td>
-                <td>90</td>
-                <td>A</td>
-            </tr>
-            <tr>
-                <td>Science</td>
-                <td>85</td>
-                <td>B+</td>
-            </tr>
-            <tr>
-                <td>English</td>
-                <td>88</td>
-                <td>A-</td>
-            </tr>
-        </tbody>
-    </table>
-
-    <!-- Form with Radio Buttons and Submit Button -->
-    <form action="#" method="post">
-        <div class="radio-group">
-            <label><input type="radio" name="feedback" value="Excellent"> Excellent</label>
-            <label><input type="radio" name="feedback" value="Good"> Good</label>
-            <label><input type="radio" name="feedback" value="Average"> Average</label>
-            <label><input type="radio" name="feedback" value="Poor"> Poor</label>
-        </div>
-        <input type="submit" value="Submit">
-    </form>
+    
+    
 
 </body>
 </html>
